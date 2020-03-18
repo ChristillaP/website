@@ -23,3 +23,14 @@ splitting the screen and slideshow. The main thing I learned is that the layout 
  -  The images should be provided with good clarity.
  -  Instead of the image on right side ,some information can be provided. 
  
+#### Some suggestions insisted by Olagmmal:
+- Images can be more clear.
+- Name of the women can be displayed.
+- Some of the achievements of the women can also be displayed.
+- Links to know more about the women achievers can be provided.
+- Bootstrap icons can navigate to other pages.
+- Some content can be given in place of "Happy Women's day" image.
+- Change of background color on hovering in navbar can be improved.
+- Change of background color of logo on hovering can be avoided.
+- Contact section style can be improved.
+- Different font-color and style can be used.
